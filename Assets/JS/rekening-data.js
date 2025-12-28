@@ -31,17 +31,17 @@ const rekeningList = [
     number: "089604443476",
     logo: "Assets/Logo/Dana.png",
   },
-  {
-    bank: "SHOPEEPAY",
-    owner: "KOMARUDIN",
-    number: "413101010793533",
-    logo: "Assets/Logo/Spay.png",
-  },
+  // {
+  //   bank: "SHOPEEPAY",
+  //   owner: "KOMARUDIN",
+  //   number: "413101010793533",
+  //   logo: "Assets/Logo/Spay.png",
+  // },
 
-  {
-    bank: "SHOPEEPAY",
-    owner: "SANIAH",
-    number: "413101010793533",
-    logo: "Assets/Logo/Spay.png",
-  },
+  // {
+  //   bank: "SHOPEEPAY",
+  //   owner: "SANIAH",
+  //   number: "413101010793533",
+  //   logo: "Assets/Logo/Spay.png",
+  // },
 ];
